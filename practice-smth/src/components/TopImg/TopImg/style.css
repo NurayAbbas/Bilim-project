@@ -1,0 +1,52 @@
+.top{
+    height: 65vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.top__title {
+
+  width: 144px;
+  height: 24px;
+  left: 647px;
+  top: 249px;
+
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 22px;
+  line-height: 24px;
+color:#fff;
+  text-align: center;
+  letter-spacing: 0.54em;
+  text-transform: uppercase;
+}
+.top__text {
+
+  width: 796px;
+  height: 120px;
+  left: 322px;
+  top: 283px;
+
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 56px;
+  line-height: 60px;
+
+  text-align: center;
+
+  color: #ffffff;
+}
+.top__button {
+  padding: 14px 32px;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+  background: transparent;
+  border: 2px solid #fff;
+  border-radius: 40px;
+  cursor: pointer;
+}
